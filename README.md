@@ -30,5 +30,5 @@ The **Secure Data Encryption System** is a Streamlit-based application that allo
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/secure-data-encryption.git
+   git clone https://github.com/Urooj1112/secure-data-encryption.git
    cd secure-data-encryption
